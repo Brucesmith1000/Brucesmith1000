@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and archiving 
 - 🌱 I’m currently learning opportunities 
 - 💞️ I’m looking to collaborate on some business ideas
-- 📫 How to reach me Brucesmith1000/Readme
+- 📫 How to reach me Brucesmith1000/Readme.md
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
